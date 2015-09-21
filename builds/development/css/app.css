@@ -1,0 +1,9 @@
+body {
+    background-image: url("http://uflchina.org/wp-content/themes/pilot-fish/images/logo.jpg");
+}
+.img-center {
+    margin: 0 auto;
+}
+img {
+    max-height: 250px;
+}
